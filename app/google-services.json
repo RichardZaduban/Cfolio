@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054225627097",
+    "project_id": "cfiolio",
+    "storage_bucket": "cfiolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054225627097:android:ecf8a13681fd4ce8648bc8",
+        "android_client_info": {
+          "package_name": "com.zaduban.cfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054225627097-cd1oscdng7e9m9hjhk7i90bs2mms8nos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaduban.cfolio",
+            "certificate_hash": "27d13e0ce8a6338b75c43e5a6ba8c0190c46a054"
+          }
+        },
+        {
+          "client_id": "1054225627097-1rspegje3cogju0btqj4v1tngo2330s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGjOg_aqenMtMw2o8jwk4yQtL6ps-uOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054225627097-1rspegje3cogju0btqj4v1tngo2330s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
